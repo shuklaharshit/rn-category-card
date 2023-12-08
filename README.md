@@ -22,7 +22,7 @@
 Add the dependency:
 
 ```ruby
-npm i react-native-category-card
+npm i rn-category-card
 ```
 
 ## Peer Dependencies
@@ -40,7 +40,7 @@ npm i react-native-category-card
 ## Import
 
 ```js
-import CategoryCard from "react-native-category-card";
+import CategoryCard from "rn-category-card";
 ```
 
 ## CategoryCard Usage
