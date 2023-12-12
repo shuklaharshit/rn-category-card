@@ -19,20 +19,19 @@
 
 # Installation
 
-Add the dependency:
+Add the package dependency:
 
 ```ruby
 npm i rn-category-card
 ```
 
-## Peer Dependencies
+## Dependencies
 
 ###### IMPORTANT! You need install them
 
 ```js
-"react-native-androw": ">= 0.0.34",
-"react-native-linear-gradient": ">= 2.5.6",
-"@freakycoder/react-native-bounceable": ">= 0.1.1"
+"npm i react-native-linear-gradient",
+"npm i react-native-androw"
 ```
 
 # Usage

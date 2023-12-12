@@ -10,7 +10,7 @@ import {
 } from "react-native";
 import Androw from "react-native-androw";
 import LinearGradient from "react-native-linear-gradient";
-import RNBounceable from "@freakycoder/react-native-bounceable";
+import RNBounceable from "./RNBounceable";
 
 import styles, {
   _shadowStyle,
@@ -38,7 +38,7 @@ interface IProps {
   titleColor?: string;
   shadowColor?: string;
   borderRadius?: number;
-  gradientColors?: string;
+  gradientColors?: string[];
   descriptionText?: string;
   descriptionColor?: string;
   backgroundColor?: string;
