@@ -27,11 +27,13 @@ npm i rn-category-card
 
 ## Dependencies
 
-###### IMPORTANT! You need install them
+###### IMPORTANT! if dont install them the package won't function appropriately
 
 ```js
-"npm i react-native-linear-gradient",
-"npm i react-native-androw"
+npm i react-native-linear-gradient
+```
+```js
+npm i react-native-androw
 ```
 
 # Usage
